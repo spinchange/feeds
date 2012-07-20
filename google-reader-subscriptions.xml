@@ -7,8 +7,6 @@
         <outline text="Alex Bosworth's Weblog"
             title="Alex Bosworth's Weblog" type="rss"
             xmlUrl="http://feeds.feedburner.com/AlexBosworth" htmlUrl="http://alexbosworth.net/"/>
-        <outline text="Almighty Link" title="Almighty Link" type="rss"
-            xmlUrl="http://feeds2.feedburner.com/almightylink" htmlUrl="http://almightylink.ksablan.com"/>
         <outline text="Amazon.com: Top Free in Kindle eBooks"
             title="Amazon.com: Top Free in Kindle eBooks" type="rss"
             xmlUrl="http://www.amazon.com/gp/rss/top-free/digital-text/154606011/ref=zg_tf_154606011_rsslink" htmlUrl="http://www.amazon.com/Best-Sellers-Kindle-Store-eBooks/zgbs/digital-text/154606011/ref=pd_zg_rss_tf_kstore_154606011_c"/>
@@ -37,14 +35,14 @@
             xmlUrl="http://feeds.feedburner.com/BlameItOnTheVoices" htmlUrl="http://www.blameitonthevoices.com/"/>
         <outline text="Blog" title="Blog" type="rss"
             xmlUrl="http://antimatter15.com/wp/feed/" htmlUrl="http://antimatter15.com/wp"/>
+        <outline text="Boys Don't Read" title="Boys Don't Read"
+            type="rss" xmlUrl="http://www.boysdontread.com/?feed=rss2" htmlUrl="http://www.boysdontread.com"/>
         <outline text="Brendan Eich" title="Brendan Eich" type="rss"
             xmlUrl="http://brendaneich.com/feed/atom/" htmlUrl="https://brendaneich.com/"/>
         <outline text="brokenpants.com" title="brokenpants.com"
             type="rss" xmlUrl="http://brokenpants.com/?feed=rss2" htmlUrl="http://brokenpants.com"/>
         <outline text="Caterina.net" title="Caterina.net" type="rss"
             xmlUrl="http://feeds.feedburner.com/Caterinanet" htmlUrl="http://caterina.net"/>
-        <outline text="CaziSoft" title="CaziSoft" type="rss"
-            xmlUrl="http://cazisoft.com/feed" htmlUrl="http://www.cazisoft.com"/>
         <outline text="cdixon.org - chris dixon's blog"
             title="cdixon.org - chris dixon's blog" type="rss"
             xmlUrl="http://cdixon.org/feed/" htmlUrl="http://cdixon.org"/>
@@ -80,9 +78,6 @@
         <outline text="Evil Genius Chronicles"
             title="Evil Genius Chronicles" type="rss"
             xmlUrl="http://www.evilgeniuschronicles.org/wordpress/feed/atom/" htmlUrl="http://www.evilgeniuschronicles.org/wordpress"/>
-        <outline text="feed/http://www.boysdontread.com/?feed=rss2"
-            title="feed/http://www.boysdontread.com/?feed=rss2"
-            type="rss" xmlUrl="http://www.boysdontread.com/?feed=rss2" htmlUrl="http://www.boysdontread.com"/>
         <outline text="Futuristic Play by Andrew Chen"
             title="Futuristic Play by Andrew Chen" type="rss"
             xmlUrl="http://andrewchen.typepad.com/andrew_chens_blog/atom.xml" htmlUrl="http://andrewchen.co"/>
