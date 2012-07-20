@@ -4,12 +4,6 @@
         <title>Spinchange subscriptions in Google Reader</title>
     </head>
     <body>
-        <outline text="(title unknown)" title="(title unknown)"
-            type="rss"
-            xmlUrl="http://longstreet.typepad.com/thesciencebookstore" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Flongstreet.typepad.com%2Fthesciencebookstore"/>
-        <outline text="A Life Not Quite Perplexed"
-            title="A Life Not Quite Perplexed" type="rss"
-            xmlUrl="http://penbleth.co.uk/feed/" htmlUrl="http://penbleth.co.uk"/>
         <outline text="Alex Bosworth's Weblog"
             title="Alex Bosworth's Weblog" type="rss"
             xmlUrl="http://feeds.feedburner.com/AlexBosworth" htmlUrl="http://alexbosworth.net/"/>
@@ -22,6 +16,8 @@
             xmlUrl="http://notes.torrez.org/atom.xml" htmlUrl="http://notes.torrez.org/"/>
         <outline text="Anil Dash" title="Anil Dash" type="rss"
             xmlUrl="http://feeds.feedburner.com/AnilDash" htmlUrl="http://dashes.com/anil/"/>
+        <outline text="Anne’s Blog" title="Anne’s Blog" type="rss"
+            xmlUrl="http://annevankesteren.nl/feeds/weblog" htmlUrl="http://annevankesteren.nl/"/>
         <outline text="Are you thinking inside out?"
             title="Are you thinking inside out?" type="rss"
             xmlUrl="http://www.thinkoutsidein.com/blog/feed/atom/" htmlUrl="http://www.thinkoutsidein.com/blog"/>
@@ -41,6 +37,8 @@
             xmlUrl="http://feeds.feedburner.com/BlameItOnTheVoices" htmlUrl="http://www.blameitonthevoices.com/"/>
         <outline text="Blog" title="Blog" type="rss"
             xmlUrl="http://antimatter15.com/wp/feed/" htmlUrl="http://antimatter15.com/wp"/>
+        <outline text="Brendan Eich" title="Brendan Eich" type="rss"
+            xmlUrl="http://brendaneich.com/feed/atom/" htmlUrl="https://brendaneich.com/"/>
         <outline text="brokenpants.com" title="brokenpants.com"
             type="rss" xmlUrl="http://brokenpants.com/?feed=rss2" htmlUrl="http://brokenpants.com"/>
         <outline text="Caterina.net" title="Caterina.net" type="rss"
@@ -60,8 +58,14 @@
             xmlUrl="http://posthumousblog.blogspot.com/feeds/posts/default" htmlUrl="http://posthumousblog.blogspot.com/"/>
         <outline text="dataisnature.com" title="dataisnature.com"
             type="rss" xmlUrl="http://dataisnature.com/?feed=atom" htmlUrl="http://www.dataisnature.com/"/>
+        <outline text="David Baron's Weblog"
+            title="David Baron's Weblog" type="rss"
+            xmlUrl="http://dbaron.org/log/atom-feed" htmlUrl="http://dbaron.org/log/"/>
         <outline text="DeadFix" title="DeadFix" type="rss"
             xmlUrl="http://deadfix.com/feed/rss/?paged=2" htmlUrl="http://deadfix.com"/>
+        <outline text="dean.edwards.name/weblog"
+            title="dean.edwards.name/weblog" type="rss"
+            xmlUrl="http://feeds.feedburner.com/deanedwards/weblog" htmlUrl="http://dean.edwards.name/weblog"/>
         <outline text="Digital Inspiration" title="Digital Inspiration"
             type="rss" xmlUrl="http://feeds.feedburner.com/labnol" htmlUrl="http://www.labnol.org"/>
         <outline text="Digital Urban" title="Digital Urban" type="rss"
@@ -70,9 +74,6 @@
             xmlUrl="http://dosmandrivel.blogspot.com/feeds/posts/default" htmlUrl="http://dosmandrivel.blogspot.com/"/>
         <outline text="Dr. Sanity" title="Dr. Sanity" type="rss"
             xmlUrl="http://drsanity.blogspot.com/feeds/posts/default" htmlUrl="http://drsanity.blogspot.com/"/>
-        <outline text="Etiquette Bitch" title="Etiquette Bitch"
-            type="rss"
-            xmlUrl="http://etiquettebitch.blogspot.com/feeds/posts/default" htmlUrl="http://etiquettebitch.blogspot.com/"/>
         <outline text="Evan Williams | evhead"
             title="Evan Williams | evhead" type="rss"
             xmlUrl="http://evhead.com/feeds/posts/default" htmlUrl="http://evhead.com/"/>
@@ -104,8 +105,6 @@
             type="rss" xmlUrl="http://www.hilarymason.com/feed/" htmlUrl="http://www.hilarymason.com"/>
         <outline text="Hixie's Natural Log" title="Hixie's Natural Log"
             type="rss" xmlUrl="http://ln.hixie.ch/rss/html" htmlUrl="http://ln.hixie.ch/"/>
-        <outline text="Holsterical" title="Holsterical" type="rss"
-            xmlUrl="http://holsterical.blogspot.com/feeds/posts/default" htmlUrl="http://holsterical.blogspot.com/"/>
         <outline text="ICT" title="ICT" type="rss"
             xmlUrl="http://tangoncommercialisation.blogspot.com/feeds/posts/default" htmlUrl="http://tangoncommercialisation.blogspot.com/"/>
         <outline text="indexed" title="indexed" type="rss"
@@ -116,6 +115,8 @@
             xmlUrl="http://blog.jonudell.net/feed/" htmlUrl="http://blog.jonudell.net"/>
         <outline text="joshua's blog" title="joshua's blog" type="rss"
             xmlUrl="http://feeds.feedburner.com/JoshuaSchachter" htmlUrl="http://joshua.schachter.org/"/>
+        <outline text="Jst's Blog" title="Jst's Blog" type="rss"
+            xmlUrl="http://weblogs.mozillazine.org/jst/atom.xml" htmlUrl="http://weblogs.mozillazine.org/jst/"/>
         <outline text="Justin Blyth" title="Justin Blyth" type="rss"
             xmlUrl="http://jblyth.com/feed/" htmlUrl="http://jblyth.com"/>
         <outline text="KEVIN MILLER'S WORLD"
@@ -158,7 +159,7 @@
             xmlUrl="http://le.mu.rs/motherfucker/rss.xml" htmlUrl="http://le.mu.rs/motherfucker/motherfucker.html"/>
         <outline text="MoJo Blog Posts: riff"
             title="MoJo Blog Posts: riff" type="rss"
-            xmlUrl="http://feeds2.feedburner.com/motherjones/TheRiff" htmlUrl="http://www.motherjones.com/Blogs"/>
+            xmlUrl="http://feeds2.feedburner.com/motherjones/TheRiff" htmlUrl="http://www.motherjones.com/Blogs/2010"/>
         <outline text="Monkeyeggs" title="Monkeyeggs" type="rss"
             xmlUrl="http://monkeyeggs.blogspot.com/feeds/posts/default" htmlUrl="http://monkeyeggs.blogspot.com/"/>
         <outline text="My Blog" title="My Blog" type="rss"
@@ -210,7 +211,8 @@
             xmlUrl="http://feeds.pinboard.in/rss/popular/" htmlUrl="https://pinboard.in/popular/"/>
         <outline text="Pink Tentacle" title="Pink Tentacle" type="rss"
             xmlUrl="http://feeds.feedburner.com/PinkTentacle" htmlUrl="http://pinktentacle.com"/>
-        <outline text="Popular Science - New Technology, Science News, The Future Now"
+        <outline
+            text="Popular Science - New Technology, Science News, The Future Now"
             title="Popular Science - New Technology, Science News, The Future Now"
             type="rss" xmlUrl="http://www.popsci.com/rss.xml" htmlUrl="http://www.popsci.com"/>
         <outline text="public int" title="public int" type="rss"
@@ -252,6 +254,8 @@
         <outline text="Studies in Everyday Life"
             title="Studies in Everyday Life" type="rss"
             xmlUrl="http://econerdfood.blogspot.com/feeds/posts/default" htmlUrl="http://econerdfood.blogspot.com/"/>
+        <outline text="Surfin' Safari" title="Surfin' Safari" type="rss"
+            xmlUrl="http://webkit.org/blog/feed/atom/" htmlUrl="http://www.webkit.org/blog"/>
         <outline text="SynthGear" title="SynthGear" type="rss"
             xmlUrl="http://feeds2.feedburner.com/synthgear" htmlUrl="http://www.SynthGear.com"/>
         <outline text="Tech Soapbox" title="Tech Soapbox" type="rss"
@@ -287,12 +291,17 @@
             xmlUrl="http://www.crysticouture.com/feeds/posts/default" htmlUrl="http://www.crysticouture.com/"/>
         <outline text="The Ward Room" title="The Ward Room" type="rss"
             xmlUrl="http://feeds.barelypolitical.com/ward-room/rss" htmlUrl="http://www.barelypolitical.com/"/>
+        <outline text="The WHATWG Blog" title="The WHATWG Blog"
+            type="rss" xmlUrl="http://blog.whatwg.org/feed" htmlUrl="http://blog.whatwg.org"/>
         <outline text="Think Simple. Be Decisive."
             title="Think Simple. Be Decisive." type="rss"
             xmlUrl="http://feeds.feedburner.com/ThinkSimple" htmlUrl="http://thinksimplenow.com"/>
         <outline text="Threadless Weekly" title="Threadless Weekly"
             type="rss"
             xmlUrl="http://feeds.feedburner.com/ThreadlessWeekly" htmlUrl="http://www.threadless.com/"/>
+        <outline text="(title unknown)" title="(title unknown)"
+            type="rss"
+            xmlUrl="http://longstreet.typepad.com/thesciencebookstore" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Flongstreet.typepad.com%2Fthesciencebookstore"/>
         <outline text="Total Recall Book Blog (Gordon Bell)"
             title="Total Recall Book Blog (Gordon Bell)" type="rss"
             xmlUrl="http://totalrecallbook.com/blog/atom.xml" htmlUrl="http://totalrecallbook.com/blog/"/>
@@ -324,19 +333,5 @@
             xmlUrl="http://feeds.feedburner.com/wondermark" htmlUrl="http://wondermark.com"/>
         <outline text="zed equals zee" title="zed equals zee" type="rss"
             xmlUrl="http://zedequalszee.com/feed/" htmlUrl="http://zedequalszee.com"/>
-        <outline text="Anne’s Blog" title="Anne’s Blog" type="rss"
-            xmlUrl="http://annevankesteren.nl/feeds/weblog" htmlUrl="http://annevankesteren.nl/"/>
-        <outline text="Brendan Eich" title="Brendan Eich" type="rss"
-            xmlUrl="http://brendaneich.com/feed/atom/" htmlUrl="https://brendaneich.com/"/>
-        <outline text="David Baron's Weblog" title="David Baron's Weblog" type="rss"
-            xmlUrl="http://dbaron.org/log/atom-feed" htmlUrl="http://dbaron.org/log/"/>
-        <outline text="dean.edwards.name/weblog" title="dean.edwards.name/weblog" type="rss"
-            xmlUrl="http://feeds.feedburner.com/deanedwards/weblog" htmlUrl="http://dean.edwards.name/weblog"/>
-        <outline text="Jst's Blog" title="Jst's Blog" type="rss"
-            xmlUrl="http://weblogs.mozillazine.org/jst/atom.xml" htmlUrl="http://weblogs.mozillazine.org/jst/"/>
-        <outline text="Surfin' Safari" title="Surfin' Safari" type="rss" 
-        	xmlUrl="http://webkit.org/blog/feed/atom/" htmlUrl="http://www.webkit.org/blog"/>
-        <outline text="The WHATWG Blog" title="The WHATWG Blog" type="rss" 
-        	xmlUrl="http://blog.whatwg.org/feed" htmlUrl="http://blog.whatwg.org"/>
     </body>
 </opml>
