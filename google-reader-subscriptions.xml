@@ -62,9 +62,6 @@
             type="rss" xmlUrl="http://dataisnature.com/?feed=atom" htmlUrl="http://www.dataisnature.com/"/>
         <outline text="DeadFix" title="DeadFix" type="rss"
             xmlUrl="http://deadfix.com/feed/rss/?paged=2" htmlUrl="http://deadfix.com"/>
-        <outline text="Delicious hotlist" title="Delicious hotlist"
-            type="rss"
-            xmlUrl="http://feeds.delicious.com/v2/rss/?count=15" htmlUrl="http://www.delicious.com/"/>
         <outline text="Digital Inspiration" title="Digital Inspiration"
             type="rss" xmlUrl="http://feeds.feedburner.com/labnol" htmlUrl="http://www.labnol.org"/>
         <outline text="Digital Urban" title="Digital Urban" type="rss"
@@ -88,9 +85,6 @@
         <outline text="Futuristic Play by Andrew Chen"
             title="Futuristic Play by Andrew Chen" type="rss"
             xmlUrl="http://andrewchen.typepad.com/andrew_chens_blog/atom.xml" htmlUrl="http://andrewchen.co"/>
-        <outline text="Google Alerts - spinchange"
-            title="Google Alerts - spinchange" type="rss"
-            xmlUrl="http://www.google.com/reader/public/atom/user/12446492298520197581/state/com.google/alerts/4040936970792316566" htmlUrl="http://www.google.com/reader/view/user%2F12446492298520197581%2Fstate%2Fcom.google%2Falerts%2F4040936970792316566"/>
         <outline text="Google Earth Blog" title="Google Earth Blog"
             type="rss"
             xmlUrl="http://feeds.feedburner.com/GoogleEarthBlog" htmlUrl="http://www.gearthblog.com/"/>
@@ -146,8 +140,6 @@
             type="rss" xmlUrl="http://feeds.feedburner.com/LooseWire" htmlUrl="http://www.loosewireblog.com"/>
         <outline text="Loper OS" title="Loper OS" type="rss"
             xmlUrl="http://www.loper-os.org/?feed=atom" htmlUrl="http://www.loper-os.org/"/>
-        <outline text="Loper OS" title="Loper OS" type="rss"
-            xmlUrl="http://www.loper-os.org/?feed=rss2" htmlUrl="http://www.loper-os.org"/>
         <outline text="Lot 49" title="Lot 49" type="rss"
             xmlUrl="http://feeds.feedburner.com/Lot49" htmlUrl="http://www.lot49.com/"/>
         <outline text="Lowering the Bar" title="Lowering the Bar"
@@ -166,9 +158,6 @@
             type="rss" xmlUrl="http://maxwelldemon.com/feed/" htmlUrl="http://maxwelldemon.com"/>
         <outline text="Michael J. Totten" title="Michael J. Totten"
             type="rss" xmlUrl="http://www.michaeltotten.com/index.rdf" htmlUrl="http://www.michaeltotten.com/"/>
-        <outline text="Micro Persuasion" title="Micro Persuasion"
-            type="rss"
-            xmlUrl="http://feeds.feedburner.com/MicroPersuasion" htmlUrl="http://feeds.feedburner.com/steverubel"/>
         <outline text="Mike Lee" title="Mike Lee" type="rss"
             xmlUrl="http://le.mu.rs/motherfucker/rss.xml" htmlUrl="http://le.mu.rs/motherfucker/motherfucker.html"/>
         <outline text="MoJo Blog Posts: riff"
@@ -233,12 +222,6 @@
             type="rss" xmlUrl="http://www.popsci.com/rss.xml" htmlUrl="http://www.popsci.com"/>
         <outline text="public int" title="public int" type="rss"
             xmlUrl="http://feeds.feedburner.com/PublicInt" htmlUrl="http://publicint.blogspot.com/"/>
-        <outline text="Ranch Cryogenics, Inc."
-            title="Ranch Cryogenics, Inc." type="rss"
-            xmlUrl="http://50.57.173.39/feed/" htmlUrl="http://www.ranchcryogenics.com"/>
-        <outline text="Ranch Cryogenics, Inc.'s Facebook Wall"
-            title="Ranch Cryogenics, Inc.'s Facebook Wall" type="rss"
-            xmlUrl="http://www.facebook.com/feeds/page.php?id=119623454715606&amp;format=rss20" htmlUrl="http://www.facebook.com/"/>
         <outline text="Rands In Repose" title="Rands In Repose"
             type="rss" xmlUrl="http://www.randsinrepose.com/index.xml" htmlUrl="http://www.randsinrepose.com/"/>
         <outline text="rc3.org" title="rc3.org" type="rss"
